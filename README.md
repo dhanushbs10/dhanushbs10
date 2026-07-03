@@ -38,17 +38,17 @@
 
 <p align="left">
 
-🌐 Aspiring Network Engineer
+Aspiring Network Engineer
 
-🎓 Computer Science Diploma Student
+Computer Science Diploma Student
 
-📚 Currently learning CCNA, Linux & Computer Networks
+Currently learning CCNA, Linux & Computer Networks
 
-🔐 Interested in Networking, Cybersecurity & Network Automation
+Interested in Networking, Cybersecurity & Network Automation
 
-💻 Passionate about building reliable and secure networks
+Passionate about building reliable and secure networks
 
-🎯 Dream Company: Cisco
+Dream Company: Cisco
 
 </p>
 
