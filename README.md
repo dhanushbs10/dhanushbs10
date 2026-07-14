@@ -26,35 +26,35 @@
 
 ###
 
-<h1 align="center">👋 Hey, I'm Dhanush B S</h1>
+<h1 align="center">Hey, I'm Dhanush B S</h1>
 
 <h3 align="center">
-🌐 Aspiring Network Engineer • 💻 Computer Science Diploma Student • 🇮🇳 India
+Aspiring Network Engineer • Computer Science Diploma Student • India
 </h3>
 
 ###
 
-<h3 align="left">👨‍💻 About Me</h3>
+<h3 align="left">About Me</h3>
 
 <p align="left">
 
-🌐 Aspiring Network Engineer
+Aspiring Network Engineer
 
-🎓 Computer Science Diploma Student
+Computer Science Diploma Student
 
-📚 Currently learning CCNA, Linux & Computer Networks
+Currently learning CCNA, Linux & Computer Networks
 
-🔐 Passionate about Networking, Cybersecurity & Network Automation
+Passionate about Networking, Cybersecurity & Network Automation
 
-💻 Always learning new technologies and building hands-on projects
+Always learning new technologies and building hands-on projects
 
-🎯 Goal: Become a Cisco Certified Network Engineer
+Goal: Become a Cisco Certified Network Engineer
 
 </p>
 
 ###
 
-<h3 align="left">🛠️ Languages & Tools</h3>
+<h3 align="left">Languages & Tools</h3>
 
 <div align="left">
 
@@ -118,7 +118,7 @@
 
 ###
 
-<h3 align="left">🔥 My GitHub Streak</h3>
+<h3 align="left">GitHub Streak</h3>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=dhanushbs10&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="GitHub Streak"/>
