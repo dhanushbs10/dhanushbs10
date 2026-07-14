@@ -1,220 +1,125 @@
 <div align="center">
-
-# Hi 👋, I'm Dhanush B S
-
-### 🚀 Network Engineer in Training | CCNA Aspirant | Diploma CSE Student
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&duration=3500&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+the+paths+data+travels+on.;Future+Cisco+Network+Engineer.;Networking+%7C+Linux+%7C+Cybersecurity.;Always+Learning+Something+New." />
-
-<p>
-Building practical networking solutions through hands-on labs, Linux, Cisco Packet Tracer, hardware projects, and real-world troubleshooting.
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=dhanushbs10&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
+  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXNiaGd4ZG80ZGtkM2RwejUweXhkdXV3c3c5NDd1dDFlZWh1ajk3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3vQXlYhftWmvnj9e/giphy.gif" />
 </div>
 
----
-
-# 👨‍💻 About Me
-
-🎓 Third-Year Diploma in Computer Science Engineering
-
-🌐 Passionate about
-
-- Enterprise Networking
-- Network Security
-- Linux Administration
-- Infrastructure
-- Hardware Troubleshooting
-- Automation
-
-🎯 Current Goal
-
-> Become a Cisco Certified Network Engineer and build secure enterprise networks.
-
----
-
-# 🚀 Currently Learning
-
-- 📡 CCNA
-- 🌐 Routing & Switching
-- 🔐 Network Security
-- 🖥 Linux Administration
-- ☁ Networking Fundamentals
-- ESP32 IoT
-
----
-
-# 🛠 Tech Stack
-
-### Networking
-
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP/IP-blue?style=for-the-badge)
-![Subnetting](https://img.shields.io/badge/Subnetting-orange?style=for-the-badge)
-![Routing](https://img.shields.io/badge/Routing-success?style=for-the-badge)
-![Switching](https://img.shields.io/badge/Switching-purple?style=for-the-badge)
-
-### Operating Systems
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)
-
-### Languages
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-![Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge)
-
-![ESP32](https://img.shields.io/badge/ESP32-black?style=for-the-badge)
-
----
-
-# 🔥 Featured Projects
-
-## 🖥 PXE Network Boot Lab
-
-Diskless Linux boot using
-
-- DHCP
-- TFTP
-- PXE
-
-Learning enterprise deployment concepts.
-
----
-
-## ⚡ ESP32 Wake-on-LAN
-
-Remote power-on solution using
-
-- ESP32
-- Wake-on-LAN
-- Home automation
-
----
-
-## 🌐 Cross Subnet SMB Troubleshooting
-
-Solved SMB connectivity issues caused by
-
-- Different IP ranges
-- Range extender
-- Routing problems
-
----
-
-## 📡 Upcoming
-
-Cisco Packet Tracer Enterprise Lab
-
-Featuring
-
-- VLANs
-- Inter-VLAN Routing
-- ACL
-- DHCP
-- STP
-- Network Troubleshooting
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhanushbs10&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushbs10&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=dhanushbs10&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dhanushbs10&theme=tokyonight&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-# 📚 Learning Roadmap
-
-```text
-Diploma CSE
-      │
-      ▼
-Networking Fundamentals
-      │
-      ▼
-Cisco CCNA
-      │
-      ▼
-Enterprise Networking
-      │
-      ▼
-Cybersecurity
-      │
-      ▼
-Cisco Network Engineer
-```
-
----
-
-# ❤️ Interests
-
-- 🖥 Home Networking Labs
-- 🐧 Linux
-- 🔌 Hardware
-- 📡 Networking
-- 🤖 IoT
-- ⚽ Football
-- 🏐 Volleyball
-- 🔬 Technology Research
-
----
-
-# 📫 Connect With Me
-
-📧 Email
-
-**dhanushpoojari101@gmail.com**
-
-💻 GitHub
-
-https://github.com/dhanushbs10
-
----
+###
 
 <div align="center">
 
-### "Building the paths data travels on."
+<a href="https://www.instagram.com/dhanush._.101/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" alt="Instagram"/>
+</a>
 
-⭐ Thanks for visiting my profile!
+<img src="https://img.shields.io/badge/Discord-dhanu101-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="30" alt="Discord"/>
 
+<a href="mailto:dhanushpoojari101@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Gmail"/>
+</a>
+
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dhanushbs10.dhanushbs10" alt="Visitor Badge"/>
+</div>
+
+###
+
+<h1 align="center">👋 Hey, I'm Dhanush B S</h1>
+
+<h3 align="center">
+🌐 Aspiring Network Engineer • 💻 Computer Science Diploma Student • 🇮🇳 India
+</h3>
+
+###
+
+<h3 align="left">👨‍💻 About Me</h3>
+
+<p align="left">
+
+🌐 Aspiring Network Engineer
+
+🎓 Computer Science Diploma Student
+
+📚 Currently learning CCNA, Linux & Computer Networks
+
+🔐 Passionate about Networking, Cybersecurity & Network Automation
+
+💻 Always learning new technologies and building hands-on projects
+
+🎯 Goal: Become a Cisco Certified Network Engineer
+
+</p>
+
+###
+
+<h3 align="left">🛠️ Languages & Tools</h3>
+
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="PuTTY"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash"/>
+<img width="12"/>
+
+<img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="Linux"/>
+<img width="12"/>
+
+<img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="Ubuntu"/>
+<img width="12"/>
+
+<img src="https://cdn.simpleicons.org/cisco" height="40" alt="Cisco"/>
+<img width="12"/>
+
+<img src="https://cdn.simpleicons.org/markdown" height="40" alt="Markdown"/>
+<img width="12"/>
+
+<img src="https://cdn.simpleicons.org/json" height="40" alt="JSON"/>
+<img width="12"/>
+
+<img src="https://cdn.simpleicons.org/githubactions" height="40" alt="GitHub Actions"/>
+<img width="12"/>
+
+<img src="https://cdn.simpleicons.org/npm" height="40" alt="NPM"/>
+<img width="12"/>
+
+<img src="https://cdn.simpleicons.org/vercel" height="40" alt="Vercel"/>
+
+</div>
+
+###
+
+<h3 align="left">🔥 My GitHub Streak</h3>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=dhanushbs10&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="GitHub Streak"/>
 </div>
