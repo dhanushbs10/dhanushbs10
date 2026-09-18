@@ -57,12 +57,12 @@ $ whoami
 ### ｡₊˚ ── github canvas ── ˚₊｡
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dhanushbs10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=c4b5fd&icon_color=a5b4fc&text_color=9aa0b3&count_private=true" alt="stats" />
+  <img width="49%" src="https://github-readme-stats-amber-omega.vercel.app/api?username=dhanushbs10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=c4b5fd&icon_color=a5b4fc&text_color=9aa0b3&count_private=true" alt="stats" />
   <img width="49%" src="https://streak-stats.demolab.com?user=dhanushbs10&theme=tokyonight&hide_border=true&background=00000000&ring=c4b5fd&fire=c4b5fd&currStreakLabel=9aa0b3" alt="streak" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dhanushbs10&theme=tokyo-night&hide_border=true&bg_color=00000000&color=9aa0b3&line=a5b4fc&point=c4b5fd" alt="activity graph" />
+  <img width="100%" src="https://ghchart.rshah.org/a5b4fc/dhanushbs10" alt="contribution chart" />
 </p>
 
 ---
