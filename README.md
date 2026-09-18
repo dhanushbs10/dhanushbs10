@@ -80,12 +80,6 @@ $ whoami
   <i>open to collabs, internships, and cool late-night ideas ✦</i>
 </p>
 
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
-</p>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0a0a0a&height=120&section=footer" />
 
 <p align="center">
