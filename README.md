@@ -62,7 +62,7 @@ $ whoami
 </p>
 
 <p align="center">
-  <img width="100%" src="https://ghchart.rshah.org/a5b4fc/dhanushbs10" alt="contribution chart" />
+  <img width="100%" src="https://github-readme-activity-graph-chi.vercel.app/graph?username=dhanushbs10&theme=tokyo-night&hide_border=true&bg_color=00000000&color=9aa0b3&line=a5b4fc&point=c4b5fd" alt="activity graph" />
 </p>
 
 ---
