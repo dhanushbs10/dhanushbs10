@@ -28,7 +28,7 @@ $ whoami
 ```
 
 - 🔭 currently — building small, sharp projects and documenting the process
-- 🌱 learning — CCNA + linux + real-world networking by doing hands-on labs
+- 🌱 learning —  linux + real-world networking by doing hands-on labs
 - 🌙 after hours — music, hardware blinking LEDs, and fixing “one more bug”
 - ✦ vibe — quiet, curious, minimal. less noise, more signal.
 
