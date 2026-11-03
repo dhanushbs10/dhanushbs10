@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=150&section=header&text=Dhanush%20B%20S&fontSize=40&fontColor=e2e8f0&fontAlignY=38&desc=network%20engineer%20in%20training%20%7C%20bengaluru&descAlignY=58&descSize=14&animation=fadeIn" />
+﻿<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=150&section=header&text=Dhanush%20B%20S&fontSize=40&fontColor=e2e8f0&fontAlignY=38&desc=network%20engineer%20in%20training%20%7C%20bengaluru&descAlignY=58&descSize=14&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1500&color=94a3b8&center=true&vCenter=true&width=520&lines=aspiring+network+engineer;computer+science+diploma+student;learning+CCNA%2C+Linux+and+networks;building+things+that+matter" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1500&color=94a3b8&center=true&vCenter=true&width=520&lines=aspiring+network+engineer;computer+science+diploma+student;learning+Linux+and+networks;building+things+that+matter" alt="typing" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ## About
 
-Aspiring network engineer based in Bengaluru, India. Computer science diploma student, working toward CCNA and hands-on networking labs. Interested in networking, cybersecurity, and automation.
+Aspiring network engineer based in Bengaluru, India. Computer science diploma student, working on hands-on networking labs and security projects. Interested in networking, cybersecurity, and automation.
 
 - Building small, focused projects and documenting the process.
 - Learning Linux and real-world networking through hands-on labs.
@@ -21,10 +21,34 @@ Aspiring network engineer based in Bengaluru, India. Computer science diploma st
 
 ## Focus
 
-- Networking fundamentals and CCNA preparation
+- Networking fundamentals and protocol design
 - Linux administration and shell scripting
-- Cybersecurity basics and automation
+- Cybersecurity basics and threat detection
 - Embedded and hardware projects
+- Desktop and web application development
+
+## Skills
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-1e293b?style=flat&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-1e293b?style=flat&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-1e293b?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1e293b?style=flat&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-1e293b?style=flat&logo=powershell&logoColor=white)
+
+**Frameworks and Libraries**
+
+![React](https://img.shields.io/badge/React-1e293b?style=flat&logo=react&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-1e293b?style=flat&logo=tauri&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-1e293b?style=flat&logo=webrtc&logoColor=white)
+
+**Infrastructure and Tools**
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-1e293b?style=flat&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1e293b?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-1e293b?style=flat&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1e293b?style=flat&logo=git&logoColor=white)
 
 ## Featured projects
 
@@ -42,6 +66,15 @@ A calm, lossless-first desktop music player built with Tauri v2, React, and Rust
 
 - Stack: Tauri v2, React, Rust
 - Link: [github.com/dhanushbs10/vynlore](https://github.com/dhanushbs10/vynlore)
+
+## Contributions
+
+### OctoKon / Splyce
+
+Active contributor to a unified coding-agent CLI and harness. Work spans desktop UI and UX redesigns, status projection and label mapping, live turn streaming with backpressure, and prototype property-collision guards.
+
+- Repo: [github.com/OctoKon/Splyce](https://github.com/OctoKon/Splyce)
+- Notable PRs: [#174](https://github.com/OctoKon/Splyce/pull/174), [#166](https://github.com/OctoKon/Splyce/pull/166), [#165](https://github.com/OctoKon/Splyce/pull/165), [#163](https://github.com/OctoKon/Splyce/pull/163), [#53](https://github.com/OctoKon/Splyce/pull/53), [#40](https://github.com/OctoKon/Splyce/pull/40)
 
 ## Other projects
 
