@@ -1,7 +1,7 @@
-﻿<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=150&section=header&text=Dhanush%20B%20S&fontSize=40&fontColor=e2e8f0&fontAlignY=38&desc=network%20engineer%20in%20training%20%7C%20bengaluru&descAlignY=58&descSize=14&animation=fadeIn" />
+﻿<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=150&section=header&text=Dhanush%20B%20S&fontSize=40&fontColor=e2e8f0&fontAlignY=38&desc=cybersecurity%20engineer%20in%20training%20%7C%20systems%20%26%20infra&descAlignY=58&descSize=14&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1500&color=94a3b8&center=true&vCenter=true&width=520&lines=aspiring+network+engineer;computer+science+diploma+student;learning+Linux+and+networks;building+things+that+matter" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1500&color=94a3b8&center=true&vCenter=true&width=520&lines=aspiring+security+engineer;computer+science+diploma+student;learning+Linux+and+systems;building+things+that+matter" alt="typing" />
 </p>
 
 <p align="center">
@@ -12,16 +12,16 @@
 
 ## About
 
-Aspiring network engineer based in Bengaluru, India. Computer science diploma student, working on hands-on networking labs and security projects. Interested in networking, cybersecurity, and automation.
+Aspiring cybersecurity engineer based in Bengaluru, India. Computer science diploma student, working on hands-on infrastructure and security projects. Interested in cybersecurity, automation, and systems.
 
 - Building small, focused projects and documenting the process.
-- Learning Linux and real-world networking through hands-on labs.
+- Learning Linux and low-level systems through hands-on labs.
 - After hours: music, hardware tinkering with blinking LEDs, and fixing one more bug.
 - Style: quiet, curious, minimal. Less noise, more signal.
 
 ## Focus
 
-- Networking fundamentals and protocol design
+- Security fundamentals and protocol design
 - Linux administration and shell scripting
 - Cybersecurity basics and threat detection
 - Embedded and hardware projects
