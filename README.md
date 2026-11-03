@@ -1,4 +1,4 @@
-﻿<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=150&section=header&text=Dhanush%20B%20S&fontSize=40&fontColor=e2e8f0&fontAlignY=38&desc=cybersecurity%20engineer%20in%20training%20%7C%20systems%20%26%20infra&descAlignY=58&descSize=14&animation=fadeIn" />
+﻿<img width="100%" src="banner.svg" alt="Dhanush B S banner" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1500&color=94a3b8&center=true&vCenter=true&width=520&lines=aspiring+security+engineer;computer+science+diploma+student;learning+Linux+and+systems;building+things+that+matter" alt="typing" />
@@ -111,5 +111,3 @@ Active contributor to a unified coding-agent CLI and harness. Work spans desktop
 Open to collaborations, internships, and late-night ideas.
 
 Thanks for stopping by. If something caught your eye, leave a star.
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer" />

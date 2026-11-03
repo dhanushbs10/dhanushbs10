@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-label="Dhanush B S - cybersecurity engineer in training">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#1e293b"/>
+    </linearGradient>
+    <clipPath id="clip"><rect width="1200" height="150"/></clipPath>
+    <style>
+      .fade { opacity: 0; animation: fadeIn 1.6s ease-out forwards; }
+      .d2 { animation-delay: 0.6s; }
+      @keyframes fadeIn { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: translateY(0); } }
+      .wave1 { animation: drift 14s linear infinite; }
+      .wave2 { animation: drift 22s linear infinite reverse; }
+      @keyframes drift { from { transform: translateX(0); } to { transform: translateX(-600px); } }
+    </style>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="150" fill="url(#bg)"/>
+    <path class="wave2" fill="#1e293b" fill-opacity="0.55"
+      d="M0 125 Q150 105 300 125 T600 125 T900 125 T1200 125 T1500 125 T1800 125 V150 H0 Z"/>
+    <path class="wave1" fill="#0f172a" fill-opacity="0.85"
+      d="M0 135 Q150 117 300 135 T600 135 T900 135 T1200 135 T1500 135 T1800 135 V150 H0 Z"/>
+    <text class="fade" x="600" y="68" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="40" font-weight="600" fill="#e2e8f0">Dhanush B S</text>
+    <text class="fade d2" x="600" y="100" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#94a3b8">cybersecurity engineer in training | systems &amp; infra</text>
+  </g>
+</svg>
