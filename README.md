@@ -1,8 +1,18 @@
-# Dhanush B S
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=150&section=header&text=Dhanush%20B%20S&fontSize=40&fontColor=e2e8f0&fontAlignY=38&desc=network%20engineer%20in%20training%20%7C%20bengaluru&descAlignY=58&descSize=14&animation=fadeIn" />
 
-Aspiring network engineer based in Bengaluru, India. Computer science diploma student, currently working toward CCNA and hands-on networking labs. Interested in networking, cybersecurity, and automation.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1500&color=94a3b8&center=true&vCenter=true&width=520&lines=aspiring+network+engineer;computer+science+diploma+student;learning+CCNA%2C+Linux+and+networks;building+things+that+matter" alt="typing" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dhanushbs10&label=profile+views&color=1e293b&style=flat" alt="profile views" />
+  <a href="https://github.com/dhanushbs10?tab=followers"><img src="https://img.shields.io/github/followers/dhanushbs10?label=followers&style=flat&color=1e293b" alt="followers" /></a>
+  <a href="https://bsdhanush.qzz.io"><img src="https://img.shields.io/badge/portfolio-live-1e293b?style=flat" alt="portfolio" /></a>
+</p>
 
 ## About
+
+Aspiring network engineer based in Bengaluru, India. Computer science diploma student, working toward CCNA and hands-on networking labs. Interested in networking, cybersecurity, and automation.
 
 - Building small, focused projects and documenting the process.
 - Learning Linux and real-world networking through hands-on labs.
@@ -16,17 +26,34 @@ Aspiring network engineer based in Bengaluru, India. Computer science diploma st
 - Cybersecurity basics and automation
 - Embedded and hardware projects
 
-## Selected projects
+## Featured projects
+
+### ZeroTrust SOC Lab
+
+A Kubernetes attack-to-detection lab that runs entirely on your laptop. Real kind cluster, real NetworkPolicies, real kubectl escalation. Every attack step, telemetry rule, and detection carries its MITRE ATT&CK technique ID, and every console claim traces back to a file and line you can check.
+
+- Stack: Kubernetes, PowerShell, Python
+- Highlights: 7 privilege paths, 6-hop intrusion chain, ATT&CK-tagged detections, stated detection gaps
+- Link: [github.com/dhanushbs10/zerotrust-soc-lab](https://github.com/dhanushbs10/zerotrust-soc-lab)
+
+### Vynlore
+
+A calm, lossless-first desktop music player built with Tauri v2, React, and Rust. Designed to stay out of the way and let the music lead.
+
+- Stack: Tauri v2, React, Rust
+- Link: [github.com/dhanushbs10/vynlore](https://github.com/dhanushbs10/vynlore)
+
+## Other projects
 
 | Project | Description |
 |---|---|
-| [vynlore](https://github.com/dhanushbs10/vynlore) | Calm, lossless-first desktop music player built with Tauri, React, and Rust |
 | [droplink](https://github.com/dhanushbs10/droplink) | Private peer-to-peer file and text sharing with end-to-end encryption |
 | [ShellPlay](https://github.com/dhanushbs10/ShellPlay) | A small Linux playground that runs in the browser |
 | [PhantomSection](https://github.com/dhanushbs10/PhantomSection) | Security research into how programs load and run |
 | [PXE-Network-Boot-Lab](https://github.com/dhanushbs10/PXE-Network-Boot-Lab) | Diskless booting lab, machines that boot from the network |
 | [ESP8266-Wake-on-LAN](https://github.com/dhanushbs10/ESP8266-Wake-on-LAN) | Wake a PC with a tiny hardware button from anywhere at home |
 | [Cross-Subnet-SMB-Sharing-Fix](https://github.com/dhanushbs10/Cross-Subnet-SMB-Sharing-Fix) | A real networking mystery, solved and written up as a story |
+| [portfolio](https://github.com/dhanushbs10/portfolio) | Personal portfolio site |
 
 [See all repositories](https://github.com/dhanushbs10?tab=repositories)
 
@@ -34,6 +61,7 @@ Aspiring network engineer based in Bengaluru, India. Computer science diploma st
 
 <p align="center">
   <img src="https://github-readme-stats-amber-omega.vercel.app/api?username=dhanushbs10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=c4b5fd&icon_color=a5b4fc&text_color=9aa0b3&count_private=true" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=dhanushbs10&theme=tokyonight&hide_border=true&background=00000000&ring=c4b5fd&fire=c4b5fd&currStreakLabel=9aa0b3" alt="streak" />
 </p>
 
 ## Contact
@@ -46,3 +74,5 @@ Aspiring network engineer based in Bengaluru, India. Computer science diploma st
 Open to collaborations, internships, and late-night ideas.
 
 Thanks for stopping by. If something caught your eye, leave a star.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer" />
