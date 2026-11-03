@@ -1,4 +1,4 @@
-﻿<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=150&section=header&text=Dhanush%20B%20S&fontSize=40&fontColor=e2e8f0&fontAlignY=38&desc=cybersecurity%20engineer%20in%20training%20%7C%20systems%20%26%20infra&descAlignY=58&descSize=14" />
+﻿<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=150&section=header&text=Dhanush%20B%20S&fontSize=40&fontColor=e2e8f0&fontAlignY=38&desc=cybersecurity%20engineer%20in%20training%20%7C%20systems%20%26%20infra&descAlignY=58&descSize=14&animation=fadeIn" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1500&color=94a3b8&center=true&vCenter=true&width=520&lines=aspiring+security+engineer;computer+science+diploma+student;learning+Linux+and+systems;building+things+that+matter" alt="typing" />
@@ -95,6 +95,10 @@ Active contributor to a unified coding-agent CLI and harness. Work spans desktop
 <p align="center">
   <img src="https://github-readme-stats-amber-omega.vercel.app/api?username=dhanushbs10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=c4b5fd&icon_color=a5b4fc&text_color=9aa0b3&count_private=true" alt="GitHub stats" />
   <img src="https://streak-stats.demolab.com?user=dhanushbs10&theme=tokyonight&hide_border=true&background=00000000&ring=c4b5fd&fire=c4b5fd&currStreakLabel=9aa0b3" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph-chi.vercel.app/graph?username=dhanushbs10&theme=tokyo-night&hide_border=true&bg_color=00000000&color=9aa0b3&line=a5b4fc&point=c4b5fd" alt="activity graph" />
 </p>
 
 ## Contact
