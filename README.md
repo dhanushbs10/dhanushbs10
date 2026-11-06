@@ -1,4 +1,4 @@
-﻿<img width="100%" src="banner.svg" alt="Dhanush B S banner" />
+<img width="100%" src="banner.svg" alt="Dhanush B S banner" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1500&color=94a3b8&center=true&vCenter=true&width=520&lines=aspiring+security+engineer;computer+science+diploma+student;learning+Linux+and+systems;building+things+that+matter" alt="typing" />
@@ -93,7 +93,7 @@ Active contributor to a unified coding-agent CLI and harness. Work spans desktop
 ## GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-amber-omega.vercel.app/api?username=dhanushbs10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=c4b5fd&icon_color=a5b4fc&text_color=9aa0b3&count_private=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats-amber-omega.vercel.app/api?username=dhanushbs10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=c4b5fd&icon_color=a5b4fc&text_color=9aa0b3&count_private=true&v=2" alt="GitHub stats" />
   <img src="https://streak-stats.demolab.com?user=dhanushbs10&theme=tokyonight&hide_border=true&background=00000000&ring=c4b5fd&fire=c4b5fd&currStreakLabel=9aa0b3" alt="streak" />
 </p>
 
